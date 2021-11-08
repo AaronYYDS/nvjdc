@@ -4,7 +4,11 @@
   //网站标题
   "Title": "NolanJDCloud",
   //网站公告
-  "Announcement": "本项目脚本收集于互联网，为了您的财产安全，请关闭京东免密支付。",
+  "Announcement": "本项目脚本收集于互联网。为了您的财产安全，请关闭京东免密支付。",
+  ///XDD PLUS Url  http://IP地址:端口/api/login/smslogin
+  "XDDurl": "",
+  ///xddToken
+  "XDDToken": "",
   ///多青龙配置
   "Config": [
     {
